@@ -1,0 +1,31 @@
+C:\Users\lou\source\repos\Cookie Critique\bin\Release\net6.0\appsettings.Development.json
+C:\Users\lou\source\repos\Cookie Critique\bin\Release\net6.0\appsettings.json
+C:\Users\lou\source\repos\Cookie Critique\bin\Release\net6.0\Cookie Critique.staticwebassets.runtime.json
+C:\Users\lou\source\repos\Cookie Critique\bin\Release\net6.0\Cookie Critique.exe
+C:\Users\lou\source\repos\Cookie Critique\bin\Release\net6.0\Cookie Critique.deps.json
+C:\Users\lou\source\repos\Cookie Critique\bin\Release\net6.0\Cookie Critique.runtimeconfig.json
+C:\Users\lou\source\repos\Cookie Critique\bin\Release\net6.0\Cookie Critique.dll
+C:\Users\lou\source\repos\Cookie Critique\bin\Release\net6.0\Cookie Critique.pdb
+C:\Users\lou\source\repos\Cookie Critique\obj\Release\net6.0\Cookie Critique.csproj.AssemblyReference.cache
+C:\Users\lou\source\repos\Cookie Critique\obj\Release\net6.0\Cookie Critique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lou\source\repos\Cookie Critique\obj\Release\net6.0\Cookie Critique.AssemblyInfoInputs.cache
+C:\Users\lou\source\repos\Cookie Critique\obj\Release\net6.0\Cookie Critique.AssemblyInfo.cs
+C:\Users\lou\source\repos\Cookie Critique\obj\Release\net6.0\Cookie Critique.csproj.CoreCompileInputs.cache
+C:\Users\lou\source\repos\Cookie Critique\obj\Release\net6.0\Cookie Critique.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lou\source\repos\Cookie Critique\obj\Release\net6.0\Cookie Critique.RazorAssemblyInfo.cache
+C:\Users\lou\source\repos\Cookie Critique\obj\Release\net6.0\Cookie Critique.RazorAssemblyInfo.cs
+C:\Users\lou\source\repos\Cookie Critique\obj\Release\net6.0\staticwebassets\msbuild.Cookie Critique.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lou\source\repos\Cookie Critique\obj\Release\net6.0\staticwebassets\msbuild.build.Cookie Critique.props
+C:\Users\lou\source\repos\Cookie Critique\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.Cookie Critique.props
+C:\Users\lou\source\repos\Cookie Critique\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.Cookie Critique.props
+C:\Users\lou\source\repos\Cookie Critique\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\lou\source\repos\Cookie Critique\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\lou\source\repos\Cookie Critique\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\lou\source\repos\Cookie Critique\obj\Release\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lou\source\repos\Cookie Critique\obj\Release\net6.0\scopedcss\bundle\Cookie Critique.styles.css
+C:\Users\lou\source\repos\Cookie Critique\obj\Release\net6.0\scopedcss\projectbundle\Cookie Critique.bundle.scp.css
+C:\Users\lou\source\repos\Cookie Critique\obj\Release\net6.0\Cookie Critique.dll
+C:\Users\lou\source\repos\Cookie Critique\obj\Release\net6.0\refint\Cookie Critique.dll
+C:\Users\lou\source\repos\Cookie Critique\obj\Release\net6.0\Cookie Critique.pdb
+C:\Users\lou\source\repos\Cookie Critique\obj\Release\net6.0\Cookie Critique.genruntimeconfig.cache
+C:\Users\lou\source\repos\Cookie Critique\obj\Release\net6.0\ref\Cookie Critique.dll
